@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CodeingExcercise.iml" filepath="$PROJECT_DIR$/CodeingExcercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeingExcercise15FirstAndLastDigitSum.iml" filepath="$PROJECT_DIR$/CodeingExcercise15FirstAndLastDigitSum.iml" />
     </modules>
   </component>
 </project>
